@@ -1,0 +1,5 @@
+package ma.univh2c.fsbm.lias.enums;
+
+public enum TypeAction {
+    CREATION, MODIFICATION, ARCHIVAGE, DESACTIVATION, VALIDATION, REFUS, REACTIVATION, TELECHARGEMENT
+}

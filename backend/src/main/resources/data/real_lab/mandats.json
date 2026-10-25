@@ -1,0 +1,38 @@
+[
+  {
+    "typeMandat": "DIRECTEUR",
+    "membreEmail": "faouzia.benabbou@fsbm.ma",
+    "equipeNom": null,
+    "dateDebut": "2023-01-01"
+  },
+  {
+    "typeMandat": "VICE_DIRECTEUR",
+    "membreEmail": "abdessamad.belangour@fsbm.ma",
+    "equipeNom": null,
+    "dateDebut": "2023-01-01"
+  },
+  {
+    "typeMandat": "CHEF_EQUIPE",
+    "membreEmail": "nawal.sael@fsbm.ma",
+    "equipeNom": "ISDIAC",
+    "dateDebut": "2023-01-01"
+  },
+  {
+    "typeMandat": "CHEF_EQUIPE",
+    "membreEmail": "mohammed.aitdaoud@fsbm.ma",
+    "equipeNom": "SIMA",
+    "dateDebut": "2023-01-01"
+  },
+  {
+    "typeMandat": "CHEF_EQUIPE",
+    "membreEmail": "sara.ouahabi@fsbm.ma",
+    "equipeNom": "SDTIC",
+    "dateDebut": "2023-01-01"
+  },
+  {
+    "typeMandat": "CHEF_EQUIPE",
+    "membreEmail": "abdelaziz.ettaoufik@fsbm.ma",
+    "equipeNom": "ILIAS",
+    "dateDebut": "2023-01-01"
+  }
+]

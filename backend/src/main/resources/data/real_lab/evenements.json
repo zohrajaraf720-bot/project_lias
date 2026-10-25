@@ -1,0 +1,38 @@
+[
+  {
+    "titre": "Organisation de la Conférence ICAIS",
+    "description": "International Conference on Artificial Intelligence and Systems (ICAIS) - FSBM Casablanca",
+    "type": "CONFERENCE",
+    "edition": "ICAIS 2025",
+    "lieu": "Amphithéâtre 1, FSBM Casablanca",
+    "dateDebut": "2025-11-27T09:00:00",
+    "dateFin": "2025-11-28T18:00:00",
+    "statut": "TERMINE",
+    "statutValidation": "VALIDE",
+    "dateValidation": "2025-05-01T10:00:00",
+    "valideurEmail": "faouzia.benabbou@fsbm.ma",
+    "organisateursEmails": [
+      "faouzia.benabbou@fsbm.ma",
+      "nawal.sael@fsbm.ma"
+    ],
+    "canalTitre": "Orga - Organisation de la Conférence ICAIS"
+  },
+  {
+    "titre": "Journée Doctorale",
+    "description": "Recherche scientifique, Intelligence artificielle et Innovation - FSBM Casablanca",
+    "type": "SEMINAIRE",
+    "edition": "JD 2025",
+    "lieu": "Salle des Thèses, FSBM Casablanca",
+    "dateDebut": "2025-07-03T09:00:00",
+    "dateFin": "2025-07-03T17:00:00",
+    "statut": "TERMINE",
+    "statutValidation": "VALIDE",
+    "dateValidation": "2025-03-01T10:00:00",
+    "valideurEmail": "faouzia.benabbou@fsbm.ma",
+    "organisateursEmails": [
+      "faouzia.benabbou@fsbm.ma",
+      "abdessamad.belangour@fsbm.ma"
+    ],
+    "canalTitre": "Orga - Journée Doctorale"
+  }
+]

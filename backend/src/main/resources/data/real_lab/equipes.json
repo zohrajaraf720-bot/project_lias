@@ -1,0 +1,43 @@
+[
+  {
+    "nom": "ISDIAC",
+    "description": "Ingénierie des Systèmes Décisionnels et de l'Information et Analyse de Données et Connaissances",
+    "thematiques": [
+      "IA",
+      "Big Data",
+      "Sciences de données",
+      "Cloud Computing",
+      "Traitement de signal et d'images"
+    ]
+  },
+  {
+    "nom": "SIMA",
+    "description": "Systèmes Intelligents et Modélisation Avancée",
+    "thematiques": [
+      "Systèmes Intelligents",
+      "Modélisation Avancée",
+      "Technologies Cognitives",
+      "Intelligence Artificielle"
+    ]
+  },
+  {
+    "nom": "SDTIC",
+    "description": "Systèmes Distribués et Technologies de l'Information et de la Communication",
+    "thematiques": [
+      "Systèmes Distribués",
+      "Architecture IoT",
+      "Technologie Intelligente",
+      "Mathématiques Appliquées"
+    ]
+  },
+  {
+    "nom": "ILIAS",
+    "description": "Ingénierie Logicielle et Systèmes d'Information",
+    "thematiques": [
+      "Ingénierie Logicielle",
+      "Architectures de Données",
+      "Modélisation Mathématique",
+      "Informatique"
+    ]
+  }
+]

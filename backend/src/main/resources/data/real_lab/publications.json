@@ -1,0 +1,132 @@
+[
+  {
+    "titre": "Artificial Intelligence for Quality of Life Study",
+    "resume": "Publié dans : IEEE Access",
+    "lienDoi": "https://ieeexplore.ieee.org/",
+    "annee": 2024,
+    "equipeNom": "ISDIAC",
+    "auteursInternesEmails": [
+      "nawal.sael@fsbm.ma",
+      "faouzia.benabbou@fsbm.ma"
+    ],
+    "coAuteursExternes": [
+      "Jannani A."
+    ]
+  },
+  {
+    "titre": "Hybrid Deep Learning for Bot Detection",
+    "resume": "Publié dans : IEEE Access",
+    "lienDoi": null,
+    "annee": 2024,
+    "equipeNom": "ISDIAC",
+    "auteursInternesEmails": [
+      "faouzia.benabbou@fsbm.ma"
+    ],
+    "coAuteursExternes": [
+      "Ellaky Z."
+    ]
+  },
+  {
+    "titre": "Breast Cancer Therapy Prediction",
+    "resume": "Publié dans : iJOE",
+    "lienDoi": null,
+    "annee": 2024,
+    "equipeNom": "SDTIC",
+    "auteursInternesEmails": [
+      "sanaa.elfilali@fsbm.ma"
+    ],
+    "coAuteursExternes": [
+      "Collaborateurs externes"
+    ]
+  },
+  {
+    "titre": "Two-Stage Object Detection Models",
+    "resume": "Publié dans : BEEI",
+    "lienDoi": null,
+    "annee": 2024,
+    "equipeNom": "ILIAS",
+    "auteursInternesEmails": [
+      "abdessamad.belangour@fsbm.ma"
+    ],
+    "coAuteursExternes": [
+      "Bouraya S."
+    ]
+  },
+  {
+    "titre": "Advances in Machine Learning Architecture",
+    "resume": "Présenté à la conférence internationale sur le Big Data.",
+    "lienDoi": null,
+    "annee": 2023,
+    "equipeNom": "ISDIAC",
+    "auteursInternesEmails": [
+      "faouzia.benabbou@fsbm.ma",
+      "abdessamad.belangour@fsbm.ma"
+    ],
+    "coAuteursExternes": [
+      "Équipe LIAS"
+    ]
+  },
+  {
+    "titre": "Cognitive Modeling and Deep Reinforcement Learning for Adaptive Robotics",
+    "resume": "Étude approfondie sur l'intégration des modèles cognitifs dans les architectures d'apprentissage par renforcement.",
+    "lienDoi": "https://doi.org/10.1016/j.artint.2025.103982",
+    "annee": 2025,
+    "equipeNom": "SIMA",
+    "auteursInternesEmails": [
+      "mohammed.aitdaoud@fsbm.ma",
+      "khadija.achtaich@fsbm.ma",
+      "tariq.elmansouri@fsbm.ma"
+    ],
+    "coAuteursExternes": []
+  },
+  {
+    "titre": "Bio-Inspired Multi-Objective Optimization in High-Dimensional Decision Spaces",
+    "resume": "Nouvel algorithme d'optimisation métaheuristique inspiré des comportements d'essaim.",
+    "lienDoi": "https://doi.org/10.1109/TEVC.2024.321045",
+    "annee": 2024,
+    "equipeNom": "SIMA",
+    "auteursInternesEmails": [
+      "mohammed.aitdaoud@fsbm.ma",
+      "mostafa.hanoune@fsbm.ma",
+      "imane.bennani@fsbm.ma"
+    ],
+    "coAuteursExternes": []
+  },
+  {
+    "titre": "Hybrid Neuromorphic Architectures for Real-Time Sensor Fusion",
+    "resume": "Présenté à IEEE ICRA 2026 : Architecture neuromorphique hybride pour le traitement ultra-rapide des flux sensoriels.",
+    "lienDoi": "https://doi.org/10.1109/ICRA.2026.982103",
+    "annee": 2026,
+    "equipeNom": "SIMA",
+    "auteursInternesEmails": [
+      "mohammed.aitdaoud@fsbm.ma",
+      "nabil.aharrane@fsbm.ma"
+    ],
+    "coAuteursExternes": []
+  },
+  {
+    "titre": "Advanced Cognitive Systems: Principles, Algorithms and Industrial Applications",
+    "resume": "Ouvrage de référence sur les systèmes cognitifs modernes, modélisation symbolique et connexionniste.",
+    "lienDoi": "https://doi.org/10.1007/978-3-030-98765-4",
+    "annee": 2023,
+    "equipeNom": "SIMA",
+    "auteursInternesEmails": [
+      "mohammed.aitdaoud@fsbm.ma",
+      "khadija.achtaich@fsbm.ma"
+    ],
+    "coAuteursExternes": []
+  },
+  {
+    "titre": "Federated Learning for Edge Cognitive Devices with Privacy Guarantees",
+    "resume": "Protocole d'apprentissage fédéré décentralisé avec garanties de confidentialité différentielle.",
+    "lienDoi": "https://doi.org/10.1109/TIFS.2025.409123",
+    "annee": 2025,
+    "equipeNom": "SIMA",
+    "auteursInternesEmails": [
+      "mohammed.aitdaoud@fsbm.ma",
+      "tariq.elmansouri@fsbm.ma",
+      "imane.bennani@fsbm.ma"
+    ],
+    "coAuteursExternes": []
+  }
+]

@@ -1,0 +1,164 @@
+@import './styles/tokens.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[var(--bg)] text-[var(--text)] font-sans antialiased;
+}
+
+/* Modern FullCalendar Styling */
+.custom-calendar .fc {
+  font-family: inherit;
+  --fc-border-color: #f1f5f9;
+  --fc-today-bg-color: #f0f7ff;
+}
+
+.custom-calendar .fc-theme-standard th {
+  background: #f8fafc;
+  padding: 0.75rem 0.5rem;
+  border-color: #e2e8f0;
+}
+
+.custom-calendar .fc-col-header-cell-cushion {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #64748b;
+  text-decoration: none;
+}
+
+.custom-calendar .fc-daygrid-day-number {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #475569;
+  padding: 0.35rem 0.6rem;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+
+.custom-calendar .fc-day-other .fc-daygrid-day-number {
+  color: #cbd5e1;
+}
+
+.custom-calendar .fc-day-today {
+  background-color: #f8faff !important;
+}
+
+.custom-calendar .fc-day-today .fc-daygrid-day-number {
+  background: #2563eb !important;
+  color: #ffffff !important;
+  border-radius: 9999px !important;
+  width: 1.75rem !important;
+  height: 1.75rem !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  margin: 0.25rem !important;
+  font-weight: 700 !important;
+  box-shadow: 0 2px 4px rgba(37, 99, 235, 0.3) !important;
+}
+
+.custom-calendar .fc-daygrid-day-frame {
+  min-height: 110px;
+  padding: 2px;
+  transition: background-color 0.15s ease;
+}
+
+.custom-calendar .fc-daygrid-day:hover .fc-daygrid-day-frame {
+  background-color: #f8fafc;
+}
+
+.custom-calendar .fc-daygrid-event {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 2px 2px !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.custom-calendar .fc-daygrid-event:focus,
+.custom-calendar .fc-daygrid-event:hover {
+  background: transparent !important;
+}
+
+.custom-calendar .fc-h-event {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.custom-calendar .fc-toolbar-title {
+  font-size: 1.35rem !important;
+  font-weight: 800 !important;
+  color: #0f172a !important;
+  letter-spacing: -0.02em !important;
+  text-transform: capitalize !important;
+}
+
+.custom-calendar .fc-button-primary {
+  background: #ffffff !important;
+  border: 1px solid #e2e8f0 !important;
+  color: #334155 !important;
+  font-size: 0.75rem !important;
+  font-weight: 600 !important;
+  padding: 0.45rem 0.9rem !important;
+  border-radius: 0.75rem !important;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05) !important;
+  text-transform: capitalize !important;
+  transition: all 0.15s ease !important;
+}
+
+.custom-calendar .fc-button-primary:hover {
+  background: #f8fafc !important;
+  border-color: #cbd5e1 !important;
+  color: #0f172a !important;
+}
+
+.custom-calendar .fc-button-primary:disabled {
+  opacity: 0.4 !important;
+  cursor: not-allowed !important;
+}
+
+.custom-calendar .fc-button-primary:not(:disabled).fc-button-active,
+.custom-calendar .fc-button-primary:not(:disabled):active {
+  background: #2563eb !important;
+  border-color: #2563eb !important;
+  color: #ffffff !important;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25) !important;
+}
+
+.custom-calendar .fc-button-group {
+  gap: 3px;
+  border-radius: 0.75rem;
+}
+
+.custom-calendar .fc-button-group > .fc-button {
+  border-radius: 0.75rem !important;
+}
+
+.custom-calendar .fc-scrollgrid {
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 1rem !important;
+  overflow: hidden !important;
+}
+
+.custom-calendar .fc-more-link {
+  font-size: 0.7rem !important;
+  font-weight: 700 !important;
+  color: #2563eb !important;
+  background-color: #eff6ff !important;
+  padding: 0.2rem 0.55rem !important;
+  border-radius: 0.5rem !important;
+  margin: 2px 4px !important;
+  display: inline-block !important;
+  transition: all 0.15s ease;
+  border: 1px solid #dbeafe !important;
+}
+
+.custom-calendar .fc-more-link:hover {
+  background-color: #dbeafe !important;
+  text-decoration: none !important;
+}
